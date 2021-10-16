@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8" />
+    <title>Klint Finley</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="font-awesome.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    <link rel="icon" href="" type="image/x-icon" />
+  </head>
+
+  <body>
+    <h1>Klint Finley</h1>
+    <div id="description">
+      Writer and editor at <a href="https://github.com/readme">GitHub's ReadME Project</a>. Former reporter for <em>Wired</em>.
+    </div>
+    <div id="links">
+       
+      <a
+        class="link"
+        href="https://github.com/klintron"
+        target="_blank"
+        >GitHub</a>
+
+      <a class="link" href="https://www.linkedin.com/in/klintron/" target="_blank"
+        >LinkedIn</a>
+
+      <a class="link" href="https://klintron.com/newsletter/" target="_blank"
+        >Personal Newsletter</a>
+
+      <a class="link" href="https://twitter.com/klintron" target="_blank"
+        >Twitter</a>
+
+      <a class="link" href="https://instagram.com/klintfinley" target="_blank"
+        >Instagram</a>
+
+      <a class="link" href="https://klintron.com/" target="_blank"
+        >Personal Blog</a>
+      
+      <a class="link" href="https://sewermutant.com/" target="_blank"
+        >Sewer Mutant</a> 
+
+    </div>
+
+    <!-- Javascript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </body>
+</html>
